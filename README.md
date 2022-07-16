@@ -25,3 +25,5 @@ list of execute on STDOUT :
 | Greenie,-apple juice |	green apple, kiwi, lime, avocado, spinach, ice|
 | Freezie,+apple juice |	blackberry, blueberry, black currant, grape juice, frozen yogurt, apple juice|
 | Forest Berry |	strawberry, raspberry, blueberry, honey, ice, yogurt|
+
+**Through several files, I tried to improve the functionality of the code in Python.**
