@@ -12,7 +12,7 @@ list of data :
 | Vegan Delite |	strawberry, passion fruit, pineapple, mango, peach, ice, soy milk |
 | Just Desserts |	banana, ice cream, chocolate, peanut, cherry |
 
-list of execute on STDOUT : 
+list of Input and execute on STDOUT : 
 
 | Input	| Expected Output|
 |-------|----------------|
