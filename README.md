@@ -1,7 +1,7 @@
 # Smoothie-Maker
 I created this tool to participate in the diginext entry contest
 
-list of data : 
+list of all data : 
 
 | Smoothie Name |	Ingredients |
 |----------------|-------------|
